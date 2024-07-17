@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ali Hammad</h1>
+<h1 align="center">Hi 👋, I'mAli Hammad</h1>
 <h3 align="center">A passionate Data Analyst from Pakistan</h3>
 
-<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-hammad" alt="ali-hammad" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on **My Skills**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
-- 🌱 I’m currently learning **Advance Data Analysis**
-
-- 📫 How to reach me **aha698714@gmail.com**
+- ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,4 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali-hammad&show_icons=true&locale=en" alt="ali-hammad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-hammad&" alt="ali-hammad" /></p>
-![image](https://github.com/user-attachments/assets/161027ca-b8ca-44b7-b7a8-5b636f370b63)
+![image](https://github.com/user-attachments/assets/4a29b4bc-a5c2-497c-ad4b-61156e8248e4)
+
